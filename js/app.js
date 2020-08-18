@@ -36,7 +36,7 @@ particlesJS('particles-js',
         "nb_sides": 5
       },
       "image": {
-        "src": "http://wiki.lexisnexis.com/academic/images/f/fb/Itunes_podcast_icon_300.jpg",
+        "src": "images/favicon.ico",
         "width": 100,
         "height": 100
       }
@@ -64,7 +64,7 @@ particlesJS('particles-js',
     "line_linked": {
       "enable": true,
       "distance": 78.91476416322726,
-      "color": "#ffffff",
+      "color": "#1ac9cc",
       "opacity": 0.4,
       "width": 1
     },
@@ -98,7 +98,7 @@ particlesJS('particles-js',
     },
     "modes": {
       "grab": {
-        "distance": 155.84415584415586,
+        "distance": 72,
         "line_linked": {
           "opacity": 1
         }
@@ -111,7 +111,7 @@ particlesJS('particles-js',
         "speed": 3
       },
       "repulse": {
-        "distance": 191.80819180819182,
+        "distance": 72,
         "duration": 0.4
       },
       "push": {
