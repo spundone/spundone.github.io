@@ -1,4 +1,4 @@
-# spandu500.github.io
+# spundone.github.io
 ---
 ### Credits
 https://vincentgarreau.com/particles.js for Particles.js
